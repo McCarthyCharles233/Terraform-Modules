@@ -1,6 +1,6 @@
 # Remote Backend with S3
 
-This secotion of the repo demonstrates how to configure a remote backend for Terraform state using Amazon S3 and DynamoDB for state locking and consistency.
+This secotion of the repo demonstrates how to configure a remote backend for Terraform state using Amazon S3.
 
 ## Prerequisites
 
